@@ -6,5 +6,7 @@ else:
     pass
 
     if (
-        
+        something == nothing
+    
     )
+    print "nothing"
